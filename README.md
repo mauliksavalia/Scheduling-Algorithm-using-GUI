@@ -1,5 +1,5 @@
 # Scheduling-Algorithms-GUI
-This is a small college project regarding the visualization of the scheduling algorithms with GUI input and output. It is also have visualization in graph. 
+
 Programming Language - JAVA
 Development kit - Java Development Kit (JDK)
 Development IDE - Netbeans
